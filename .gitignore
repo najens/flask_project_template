@@ -1,0 +1,4 @@
+*.db
+*.md
+__pycache__
+venv
